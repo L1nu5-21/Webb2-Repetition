@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+main {
+    display: grid;
+    justify-content: center;
+}
+
+.container {
+    width: min(60ch, 100vw - 2rem);
+    margin: auto;
+    text-align: center;
+}
+
+.paragraf {
+    text-align: justify;
+}
+
+img {
+    max-width: 50%;
+    max-height: auto;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
